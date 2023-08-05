@@ -1,0 +1,2 @@
+class FileMode:
+    pass
